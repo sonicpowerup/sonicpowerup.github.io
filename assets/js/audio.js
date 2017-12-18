@@ -8,8 +8,8 @@ jQuery(function ($) {
             extension = '',
             tracks = [{
                 "track": 1,
-                "name": "Act - Sunset Sights",
-                "length": "8:31",
+                "name": "Act 1 - Sunset Sights",
+                "length": "1:19",
                 "file": "A1_SS"
             }, {
                 "track": 2,
